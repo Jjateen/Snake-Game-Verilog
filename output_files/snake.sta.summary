@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Clks_Generator:CLKs|VGA_clk'
+Slack : -9.578
+TNS   : -183.893
+
+Type  : Slow 1200mV 85C Model Setup 'Clks_Generator:CLKs|update'
+Slack : -4.874
+TNS   : -2346.217
+
+Type  : Slow 1200mV 85C Model Setup 'master_clk'
+Slack : -4.409
+TNS   : -45.934
+
+Type  : Slow 1200mV 85C Model Setup 'start'
+Slack : -2.027
+TNS   : -27.016
+
+Type  : Slow 1200mV 85C Model Hold 'Clks_Generator:CLKs|update'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'master_clk'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Clks_Generator:CLKs|VGA_clk'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'start'
+Slack : 0.796
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'master_clk'
+Slack : -3.000
+TNS   : -38.075
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'start'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clks_Generator:CLKs|update'
+Slack : -1.403
+TNS   : -750.605
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clks_Generator:CLKs|VGA_clk'
+Slack : -1.403
+TNS   : -85.583
+
+Type  : Slow 1200mV 0C Model Setup 'Clks_Generator:CLKs|VGA_clk'
+Slack : -8.690
+TNS   : -165.611
+
+Type  : Slow 1200mV 0C Model Setup 'Clks_Generator:CLKs|update'
+Slack : -4.395
+TNS   : -2122.131
+
+Type  : Slow 1200mV 0C Model Setup 'master_clk'
+Slack : -3.953
+TNS   : -39.570
+
+Type  : Slow 1200mV 0C Model Setup 'start'
+Slack : -1.863
+TNS   : -24.290
+
+Type  : Slow 1200mV 0C Model Hold 'Clks_Generator:CLKs|update'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'master_clk'
+Slack : 0.327
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Clks_Generator:CLKs|VGA_clk'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'start'
+Slack : 0.656
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'master_clk'
+Slack : -3.000
+TNS   : -38.075
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'start'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clks_Generator:CLKs|update'
+Slack : -1.403
+TNS   : -750.605
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clks_Generator:CLKs|VGA_clk'
+Slack : -1.403
+TNS   : -85.583
+
+Type  : Fast 1200mV 0C Model Setup 'Clks_Generator:CLKs|VGA_clk'
+Slack : -3.426
+TNS   : -50.383
+
+Type  : Fast 1200mV 0C Model Setup 'Clks_Generator:CLKs|update'
+Slack : -1.562
+TNS   : -733.025
+
+Type  : Fast 1200mV 0C Model Setup 'master_clk'
+Slack : -1.473
+TNS   : -7.367
+
+Type  : Fast 1200mV 0C Model Setup 'start'
+Slack : -0.602
+TNS   : -6.662
+
+Type  : Fast 1200mV 0C Model Hold 'Clks_Generator:CLKs|update'
+Slack : 0.152
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'master_clk'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Clks_Generator:CLKs|VGA_clk'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'start'
+Slack : 0.376
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'master_clk'
+Slack : -3.000
+TNS   : -28.889
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'start'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clks_Generator:CLKs|update'
+Slack : -1.000
+TNS   : -535.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clks_Generator:CLKs|VGA_clk'
+Slack : -1.000
+TNS   : -61.000
+
+------------------------------------------------------------
