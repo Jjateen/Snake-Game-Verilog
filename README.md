@@ -24,11 +24,11 @@ The objective of this project is to create a snake game using Verilog and progra
 - The game starts with a snake and an apple randomly positioned on the screen.
 - The snake grows when it consumes an apple, and a new apple is generated at a random position.
 - The game ends if the snake collides with the borders or itself.
-
-![Flowchart](./flowchart.png)
+<p align="center">
+  <img src="./flowchart.png" alt="Flowchart" />
+</p>
 
 ## Project Structure
-
 ### Key Verilog Modules:
 
 1. **Snake Game Module (`snake.v`)**:
