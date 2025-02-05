@@ -3,15 +3,6 @@ This repository contains the Verilog implementation of the **Snake and Apple Gam
 ## Project Overview
 The objective of this project is to create a snake game using Verilog and program an FPGA to simulate the game. The virtual snake moves to collect apples that appear randomly on the screen, growing longer with each successful catch. The game ends if the snake collides with the walls or itself.
 
-### Project Specifications:
-- **Course:** ECL 106: Digital System Design with HDL
-- **Group Members:**
-  - [**Jjateen Gundesha** (BT22ECI002)](https://github.com/Jjateen)
-  - **Ayush Karapagale** (BT22ECI003)
-  - [**Ayush Ambatkar** (BT22ECI005)](https://github.com/afloatwont)
-  - [**Nirbhay Raut** (BT22ECI006)](https://github.com/sorashiro3)
-- **Submission Date:** July 3, 2023
-
 ### Hardware and Tools:
 - **FPGA Board:** Altera DE10-Lite
 - **Monitor:** VGA Monitor for game display
